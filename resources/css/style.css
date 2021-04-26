@@ -1,10 +1,10 @@
 body {
     background-color: black;
     text-align: center;
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-title {
+header {
     font-weight: normal;
     font-size: 50px;
     color: white;
