@@ -9,11 +9,6 @@ p {
     color: gray;
 }
 
-#copyright {
-    text-align: right;
-    color: gray;
-}
-
 /*HEADINGS*/
 
 h1 {
@@ -35,3 +30,9 @@ h2 {
     font-size: 16px;
 }
 
+/*FOOTER*/
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
